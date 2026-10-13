@@ -4,8 +4,6 @@
 > 프로젝트 진행 중 작성된 **이슈, Pull Request, 코드 리뷰**는 원본 저장소에서 확인할 수 있습니다.
 >
 > - [원본 프로젝트](https://github.com/wools0700/Smart_Class_Monitoring)
-> - [Pull Request 및 코드 리뷰](https://github.com/wools0700/Smart_Class_Monitoring/pulls?q=is%3Apr)
-> - [이슈 및 논의 기록](https://github.com/wools0700/Smart_Class_Monitoring/issues?q=is%3Aissue)
 
 ---
 
