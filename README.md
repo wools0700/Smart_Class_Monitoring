@@ -1,3 +1,14 @@
+> ### 📌 포트폴리오 안내
+> 이 저장소는 제가 참여한 **Smart Class Monitoring 팀 프로젝트**의 코드와 커밋 기록을 보존한 포트폴리오용 복사본입니다.
+>
+> 프로젝트 진행 중 작성된 **이슈, Pull Request, 코드 리뷰**는 원본 저장소에서 확인할 수 있습니다.
+>
+> - [원본 프로젝트](https://github.com/wools0700/smartclass_monitoring)
+> - [Pull Request 및 코드 리뷰](https://github.com/wools0700/smartclass_monitoring/pulls?q=is%3Apr)
+> - [이슈 및 논의 기록](https://github.com/wools0700/smartclass_monitoring/issues?q=is%3Aissue)
+
+---
+
 # 스마트 클래스 모니터링
 
 어디있조 팀 프로젝트. 강의실 카메라 영상에서 학생을 식별하고, 지정 좌석과 대조해
